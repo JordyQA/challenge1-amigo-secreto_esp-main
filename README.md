@@ -14,3 +14,10 @@ Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del 
 
 Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
+![alt text](assets/image.png)
+
+**Ingresamos los amigos secretos a sortear**
+![alt text](assets/image-1.png)
+
+**Ejecutamos para ver cual es el amigo secreto**
+![alt text](assets/image-2.png)
